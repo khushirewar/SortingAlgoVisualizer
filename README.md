@@ -3,7 +3,7 @@
 This is a web application built using HTML, CSS, and Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
 
-**Code-** [sort visualizer code]
+**Code-** [sort visualizer code] https://github.com/khushirewar/SortingAlgoVisualizer
 
 ## Purpose
 
